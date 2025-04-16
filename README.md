@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hi! I am Josue Mamani from Peru 🇵🇪
 
-<!--
-**meeighteen/meeighteen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack developer with experience in **Mongo, Express, React and Node JS **. It's my passion to create customized efficient web apps.
 
-Here are some ideas to get you started:
+## 🚀 Tech stack
+- 🟩 Node.js / Express
+- ⚛️ React / Next.js / Vite
+- 🐳 Docker / Kubernetes
+- 🐘 PostgreSQL / MongoDB
+- 🚀 Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Some outstanding projects
+- 💬 [Realtime Chat Web App](https://github.com/meeighteen/chat-app)
+
+## 📫 Contact me
+- LinkedIn: [tu-linkedin](https://www.linkedin.com/in/josuemamani)
+- Email: josuee.amc@gmail.com
+
+---
+
+¡Thank you for visting my Github profile! 😄
