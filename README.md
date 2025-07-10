@@ -13,7 +13,7 @@ I'm a Full Stack developer with experience in **Mongo, Express, React and Node J
 - 💬 [Realtime Chat Web App](https://github.com/meeighteen/chat-app)
 
 ## 📫 Contact me
-- LinkedIn: [tu-linkedin](https://www.linkedin.com/in/josuemamani)
+- LinkedIn: [josuemamani](https://www.linkedin.com/in/josuemamani)
 - Email: josuee.amc@gmail.com
 
 ---
